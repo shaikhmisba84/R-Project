@@ -1,6 +1,7 @@
 # R-Project
 Case Study on Supermarket Sales Dataset
-In this project I have performed basic EDA .
+In this project I have used the supermarket sales dataset.
+On this dataset I have performed basic EDA and visualization.
 After performing basic EDA and visualization with the help of histogram I got on conclusion that:-
 1)The First highest profitable sales product is Food and Bevarages in Naypyitaw city.
 2)The second highest profitable sales product is of Fashion Accessories in Naypyitaw city and Home and Lifestyle in Yangon City
