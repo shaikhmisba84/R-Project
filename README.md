@@ -1,5 +1,4 @@
 # SUPERMARKET SALES PREDICTION(R-Project)
-Case Study on Supermarket Sales Dataset
 In this project I have used the supermarket sales dataset.
 On this dataset I have performed basic EDA and visualization.
 After performing basic EDA and visualization with the help of histogram I got on conclusion that:-
